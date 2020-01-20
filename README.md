@@ -51,7 +51,7 @@ const options = {
   dotenv: true // will read .env in root folder
 }
 
-// or, pass config options avalible on dotenv module
+// or, pass config options available on dotenv module
 const options = {
   dotenv: {
     path: `${__dirname}/.env`
